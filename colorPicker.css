@@ -1,0 +1,57 @@
+#mainDiv{
+	height: 500px;
+    width: 1000px;
+    background-color: #232323;
+    margin:0 auto;
+    border:5px black solid;
+}
+
+#reset{
+	margin-left: 43.5%;
+	margin-right: 43.5%;
+	background-color: #d83636;
+	color: white;
+	margin-top: 10px;
+	font-size: 30px;
+	border-radius: 10px;
+	padding: 6px 36px;
+	font-family: Nunito;
+	width: 250px;
+	
+}
+
+#reset:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+body{
+	background-image: url("https://newevolutiondesigns.com/images/freebies/colorful-background-14.jpg");
+	max-width: 100%;
+	//overflow-x:hidden;
+}
+
+#heading{
+	background-color: #5ec9c7;
+	font-family:Nunito;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+#innerDiv{
+	margin:auto auto ;
+	height: 50px;
+	width: 100px;
+	background-color:#FFFFFF;
+	border:2px white solid;
+	position: relative;
+	border-bottom :1px black solid;
+	border-left :1px black solid;
+	border-right :1px black solid;
+}
+
+#code{
+	text-align: center;
+	font-family:Nunito;
+}
